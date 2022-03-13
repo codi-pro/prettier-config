@@ -12,6 +12,9 @@
   },
   "author": "Patryk Deja <patryk@codi.pro>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/codi-pro/prettier-config/issues"
   },
