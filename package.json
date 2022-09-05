@@ -1,6 +1,6 @@
 {
   "name": "@codi.pro/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prettier configuration from codi.pro team",
   "main": ".prettierrc.js",
   "scripts": {
