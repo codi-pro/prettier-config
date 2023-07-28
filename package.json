@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/codi-pro/prettier-config#readme",
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^3.0.0"
   },
   "peerDependencies": {
     "prettier": "^2.5.1"
